@@ -1,0 +1,26 @@
+.home {
+background-image: url(./OIP\ \(4\).jpg);
+height: 100vh;
+background-size: cover;
+
+
+}
+.home-content{
+    text-align:center;
+    margin-top: 250px;
+    color:red;
+}
+.home-content h{
+    color: blue;
+}
+.home-content button{
+padding: 11px;
+    
+border-radius: 900px;
+border: 2px solid color(orange);
+}
+.layer{
+    background-color: rgba(0, 0, 0, 0.493);
+    height: 100vh;
+    overflow: auto;
+}
