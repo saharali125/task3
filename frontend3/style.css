@@ -1,17 +1,28 @@
-.types img{ 
+.types{ 
     width: 25%;
     float: left;
-    scroll: padding inline end 10%; box-sizing: boarder border-box;padding-inline: 20;
+   
+    
  }
 
 h1{
     text-align: center;}
-span{color: blueviolet;text-align: center;}
-.types h2;p2 {
-    text-align: center;}
+span{
+    color: blueviolet;
+    text-align: center;
+}
+.types h2,p2 {
+    text-align: center; 
+}
     img{
-        width: 80%;border-radius: 50%;border: 10px solid rgb(255, 0, 191); height: 100px;
+        width: 100%;
+        border-radius: 50%;
+        border: 10px solid rgb(255, 0, 191);
+        height: 100px;
     }
-.container{ width: 90%;margin: auto;}
+.containter{ 
+    width: 90%; 
+    margin: auto;
+}
     
 
